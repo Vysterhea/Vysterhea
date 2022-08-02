@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thea Nilsson
 - 👀 I’m interested in games development, design and programming
 - 🌱 I’m currently expanding my knowledge on Unreal Engine 5 and Unity 2021.3
-- I have more finished and WIP projects than are posted here on my GitHub, they will be on here soon.
+- I have more WIP projects than are posted here on my GitHub, they will be on here soon.
 - 💞️ I’m looking to find new employment in the games industry
 - 📫 How to reach me: email at vysterhea@gmail.com, LinkedIn at www.linkedin.com/in/vysterhea
