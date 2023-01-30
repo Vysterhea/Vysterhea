@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thea Nilsson
 - 👀 I’m interested in games development, design and programming
-- 🌱 I’m currently expanding my knowledge on Unreal Engine 5(.0 and .1) and Unity 2020, 2021 and 2022
+- 🌱 I’m currently expanding my knowledge on Unreal Engine 5(.0 and .1) and Unity 2021 and 2022
 - 🕹️ All projects on my GitHub are in large part or entirely produced by me. Assets that I have not produced are imported or produced by group members in team projects.
 - 🔜 I have more WIP projects than those posted on my GitHub. Check back later if you're interested.
 - 
