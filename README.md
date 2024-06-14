@@ -5,4 +5,4 @@
 - 🔜 I have more WIP projects than those posted on my GitHub. Check back later if you're interested.
 - 
 - 💞️ I’m looking to find employment in the games industry immediately following my education.
-- 📫 Feel free to reach out: email at vysterhea@gmail.com, LinkedIn at www.linkedin.com/in/theanilsson
+- 📫 Feel free to reach out: LinkedIn at www.linkedin.com/in/theanilsson
